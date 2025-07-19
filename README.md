@@ -8,6 +8,11 @@ Aerospace Engineering & Computer Science Student @ UNSW
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanted7580/vanted7580?style=flat-square&logo=github&logoColor=%23FFFFF&label=Last%20Update&labelColor=%2300000&color=%2300000">
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanted7580&theme=buefy&hide=issues)](https://github.com/vanted7580)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=buefy)
+<a href="https://github.com/vanted7580">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=vanted7580&theme=buefy&hide=issues&rank_icon=github&include_all_commits=true">
+</a>
+<a href="https://github.com/vanted7580">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=buefy&size_weight=0&count_weight=1&">
+</a>
+
 
