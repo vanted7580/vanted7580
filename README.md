@@ -1,6 +1,5 @@
 ##### About
 Aerospace Engineering & Computer Science Student @ UNSW
-<img alt="Static Badge" src="https://img.shields.io/badge/vanted7580%40outlook.com-%20?style=flat-square&logo=mailboxdotorg&logoColor=%23FFFFFF&label=Outlook&labelColor=%230072EF&color=%23EEEEEE">
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%20?style=flat-square&logo=cplusplus&logoColor=%23FFFFFF&color=%2300599C">
@@ -18,4 +17,4 @@ Aerospace Engineering & Computer Science Student @ UNSW
 </a>
 
 ##### Contact
-![Static Badge](https://img.shields.io/badge/vanted7580%40outlook.com-%20?style=flat-square&logo=mailboxdotorg&logoColor=%23FFFFFF&label=Outlook&labelColor=%230072EF&color=%23EEEEEE&link=https%3A%2F%2Foutlook.live.com%2F)
+![Static Badge](https://img.shields.io/badge/vanted7580%40outlook.com-%20?style=flat-square&logo=mailboxdotorg&logoColor=%23FFFFFF&label=Outlook&labelColor=%230072EF&color=%23EEEEEE)
