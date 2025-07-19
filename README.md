@@ -12,7 +12,7 @@ Aerospace Engineering & Computer Science Student @ UNSW
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=vanted7580&theme=shadow_blue&hide=issues&rank_icon=github&include_all_commits=true">
 </a>
 <a href="https://github.com/vanted7580">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=shadow_blue&size_weight=0&count_weight=1&">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=shadow_blue&size_weight=0.1&count_weight=1&">
 </a>
 
 
