@@ -1,16 +1,13 @@
-## Hi there 👋
+Aerospace Engineering & Computer Science Student @ UNSW
 
-<!--
-**vanted7580/vanted7580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%20?style=flat-square&logo=cplusplus&logoColor=%23FFFFFF&color=%2300599C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=%23FFFFFF&color=%233776AB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%20?style=flat-square&logo=lua&logoColor=%23FFFFFF&color=%232C2D72">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=%23000000&color=%23F7DF1E">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanted7580/vanted7580?style=flat-square&logo=github&logoColor=%23FFFFF&label=Last%20Update&labelColor=%2300000&color=%2300000">
+</p>
 
-Here are some ideas to get you started:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanted7580&theme=buefy&hide=issues)](https://github.com/vanted7580)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=buefy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
