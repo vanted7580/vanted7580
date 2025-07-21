@@ -15,6 +15,3 @@ Aerospace Engineering & Computer Science Student @ UNSW
 <a href="https://github.com/vanted7580">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanted7580&layout=compact&theme=shadow_blue&size_weight=0.1&count_weight=1&link=https%3A%2F%2Fgithub.com%2Fvanted7580%2F">
 </a>
-
-#### CONTACT
-[![Static Badge](https://img.shields.io/badge/vanted7580%40outlook.com-%20?style=flat-square&logo=mailboxdotorg&logoColor=%23FFFFFF&label=Outlook&labelColor=%230096D6&color=%23EEEEEE)](mailto:vanted7580@outlook.com)
